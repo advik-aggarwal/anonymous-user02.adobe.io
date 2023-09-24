@@ -7,8 +7,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "predeploy": "npm run build", <----------- #1
-    "deploy": "gh-pages -d build", <---------- #2
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build", 
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
@@ -59,8 +59,8 @@
     "vite": "^4.4.9"
   }
   {
-  "name": "starter-project",
-  "homepage": "https://tomerpacific.github.io/starter-project/", <----
+  "name": "adobe",
+  "homepage": "https://github.com/anonymous-user02/adobe", <----
   "version": "0.1.0",
   /....
 }
