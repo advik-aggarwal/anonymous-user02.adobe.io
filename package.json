@@ -58,4 +58,10 @@
     "tailwindcss": "^3.3.2",
     "vite": "^4.4.9"
   }
+  {
+  "name": "starter-project",
+  "homepage": "https://tomerpacific.github.io/starter-project/", <----
+  "version": "0.1.0",
+  /....
+}
 }
