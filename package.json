@@ -60,7 +60,7 @@
   }
   {
   "name": "adobe",
-  "homepage": "https://github.com/anonymous-user02/adobe", <----
+  "homepage": "https://github.com/anonymous-user02/adobe", 
   "version": "0.1.0",
   /....
 }
